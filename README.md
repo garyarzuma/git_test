@@ -1,0 +1,1 @@
+This is Gary Arzumanyan's first git project!
